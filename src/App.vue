@@ -1,3 +1,11 @@
+<!--
+ * @Author: along
+ * @Description: 
+ * @Date: 2023-10-20 11:47:35
+ * @LastEditors: along
+ * @LastEditTime: 2023-10-20 13:31:59
+ * @FilePath: /cxy-v2-template/src/App.vue
+-->
 <template>
 	<div id="app">
 		<nav>
